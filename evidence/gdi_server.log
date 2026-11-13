@@ -1,0 +1,14 @@
+[21:31:08.863] --capture gdi requested, releasing DXGI backend
+[21:31:08.863] switching capture backend to GDI BitBlt
+[21:31:08.887] GDI BitBlt fallback active, screen 1920x1080
+[21:31:08.888] capture backend: gdi
+[21:31:08.890] HTTP/WebSocket server listening on 0.0.0.0:18204 (threads=8)
+[21:31:08.890] playback page : http://127.0.0.1:18204/
+[21:31:08.892] stats API     : http://127.0.0.1:18204/api/stats
+[21:31:08.892] websocket     : ws://127.0.0.1:18204/ws
+[21:31:08.922] first frame: JPEG 89502 bytes, 1280x720, capture=gdi, black=no
+[21:31:10.749] connection from 127.0.0.1:64630
+[21:31:10.855] connection from 127.0.0.1:64631
+[21:31:10.859] websocket client connected, clients=1
+[21:31:11.809] websocket client disconnected, clients=0
+[21:31:11.820] connection from 127.0.0.1:64632

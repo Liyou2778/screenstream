@@ -1,0 +1,11 @@
+[21:30:42.945] capture backend: dxgi
+[21:30:42.947] HTTP/WebSocket server listening on 0.0.0.0:8203 (threads=8)
+[21:30:42.949] playback page : http://127.0.0.1:8203/
+[21:30:42.949] stats API     : http://127.0.0.1:8203/api/stats
+[21:30:42.949] websocket     : ws://127.0.0.1:8203/ws
+[21:30:42.966] first frame: JPEG 89500 bytes, 1280x720, capture=dxgi, black=no
+[21:30:44.808] connection from 127.0.0.1:56195
+[21:30:45.155] connection from 127.0.0.1:56196
+[21:30:45.165] websocket client connected, clients=1
+[21:30:47.104] websocket client disconnected, clients=0
+[21:30:47.116] connection from 127.0.0.1:52726
